@@ -1,0 +1,11 @@
+# =============================================
+# PRESTIGE DRIVE — robots.txt
+# =============================================
+
+User-agent: *
+Allow: /
+Disallow: /api/
+Disallow: /tmp/
+
+Sitemap: https://www.prestigedrive-paris.fr/sitemap.xml
+
