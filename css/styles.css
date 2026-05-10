@@ -137,8 +137,9 @@ nav.scrolled .theme-btn{border-color:var(--border);}
 
 /* HAMBURGER */
 .hamburger{
-  display:none;flex-direction:column;gap:5px;
-  cursor:pointer;padding:6px;background:none;border:none;
+  display:none;flex-direction:column;justify-content:center;gap:5px;
+  cursor:pointer;padding:10px;background:none;border:none;
+  min-width:44px;min-height:44px;
 }
 .hamburger span{
   display:block;width:24px;height:1.5px;
